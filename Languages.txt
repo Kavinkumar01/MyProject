@@ -3,3 +3,7 @@ Languages to Strengthen:
 1. Java
 2. SQl
 3. Python
+
+Frameworks to Strengthen:
+1. Spring Boot
+2. Hibernate
