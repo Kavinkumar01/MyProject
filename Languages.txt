@@ -7,3 +7,7 @@ Languages to Strengthen:
 Frameworks to Strengthen:
 1. Spring Boot
 2. Hibernate
+
+Softwares to Strengthen:
+1. Eclipse
+2. Github
